@@ -1,4 +1,4 @@
-package Strings.MinMovesConsecutiveLetters;
+package Strings.minMovesConsecutiveLetters;
 
 public class Solution {
 
